@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Smart Meal Planner",
+  "description": "An AI-powered Smart Meal Planner Agent that intelligently plans personalized weekly meals based on a user’s dietary preferences, calorie goals, allergies, budget, and taste profile. It generates meal schedules, recipes, and shopping lists.",
+  "requestFramePermissions": []
+}
